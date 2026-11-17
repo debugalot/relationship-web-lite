@@ -1,0 +1,20 @@
+Relationship Web Lite for Godot - license
+
+Copyright (c) 2026 Sir Debugalot (ExcaliBug)
+
+You may use this add-on for free in any number of your own projects, free or commercial, and ship
+it inside the games and apps you make with it. You may change it for those projects, except for the
+Lite mark: wherever the web view is shown, the mark it draws (the faint knight and the "Relationship
+Web Lite" line) stays, unchanged and visible.
+
+You may not resell or redistribute the add-on itself, changed or unchanged, as an asset, template or
+tool, or publish a changed version of it. Keep this license with the add-on.
+
+For romance, jealousy, couples, families and life events, the relationship list, the family tree,
+the ready-made screen and a view without the Lite mark, get the full Relationship Web:
+https://debugalot.itch.io/relationship-web
+
+The add-on is provided as is, without warranty of any kind.
+
+The bundled Nunito font (addons/relationship_web/fonts/) is copyright 2014 The Nunito Project
+Authors and licensed under the SIL Open Font License 1.1 (fonts/Nunito-OFL.txt).
